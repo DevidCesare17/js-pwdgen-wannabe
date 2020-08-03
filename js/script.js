@@ -14,5 +14,5 @@ document.getElementById('password').innerHTML = password;
 
 // se l'utente dovesse inserire anche il numero, ecco soluzione alternativa:
 //
-// var numero = prompt("Qual è il tuo numero preferito?");
+// var numero = parseInt(prompt("Qual è il tuo numero preferito?"));
 // var password = nome + cognome + colore + numero;
